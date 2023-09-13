@@ -1,0 +1,15 @@
+.main{
+    padding: 0px;
+    background-image: url('https://images-static.naikaa.com/media/wysiwyg/2021/common-strip.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40px;
+    
+}
+
+.minNav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
